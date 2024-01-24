@@ -1,0 +1,1120 @@
+.home-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home-page .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 4300px;
+    position: relative;
+  }
+  
+  .home-page .footer {
+    position: absolute;
+    width: 1922px;
+    height: 419px;
+    top: 3881px;
+    left: 0;
+    background-color: transparent;
+  }
+  
+  .home-page .overlap-group {
+    position: relative;
+    width: 1920px;
+    height: 419px;
+    background-color: #161616;
+  }
+  
+  .home-page .text-wrapper {
+    position: absolute;
+    top: 376px;
+    left: 778px;
+    font-family: "Cabin-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff87;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .home-page .group {
+    position: absolute;
+    width: 298px;
+    height: 134px;
+    top: 80px;
+    left: 389px;
+  }
+  
+  .home-page .p {
+    position: absolute;
+    width: 293px;
+    top: 42px;
+    left: 1px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .home-page .FB {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 114px;
+    left: 0;
+  }
+  
+  .home-page .bxl-telegram {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 114px;
+    left: 40px;
+  }
+  
+  .home-page .akar-icons-youtube {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 114px;
+    left: 80px;
+  }
+  
+  .home-page .akar-icons-instagram {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 114px;
+    left: 120px;
+  }
+  
+  .home-page .text-wrapper-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .home-page .quick-links {
+    position: absolute;
+    width: 117px;
+    height: 202px;
+    top: 80px;
+    left: 740px;
+  }
+  
+  .home-page .text-wrapper-3 {
+    position: absolute;
+    top: 42px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: 40px;
+  }
+  
+  .home-page .quick-links-2 {
+    position: absolute;
+    width: 270px;
+    height: 202px;
+    top: 80px;
+    left: 938px;
+  }
+  
+  .home-page .contact {
+    position: absolute;
+    width: 245px;
+    height: 122px;
+    top: 80px;
+    left: 1275px;
+  }
+  
+  .home-page .free-consultation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Cabin-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0.32px;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .home-page .line {
+    position: absolute;
+    width: 1920px;
+    height: 2px;
+    top: 360px;
+    left: 0;
+  }
+  
+  .home-page .div-2 {
+    position: absolute;
+    width: 1926px;
+    height: 700px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .overlap {
+    position: relative;
+    width: 1920px;
+    height: 700px;
+    background-image: url(./image/image\ 2.png);
+    background-size: 100% 100%;
+  }
+  
+  .home-page .kaal-sarp-puja-in {
+    position: absolute;
+    top: 252px;
+    left: 685px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 76px;
+  }
+  
+  .home-page .span {
+    font-weight: 500;
+  }
+  
+  .home-page .text-wrapper-4 {
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .home-page .contact-guruji-for {
+    position: absolute;
+    top: 424px;
+    left: 664px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 27px;
+  }
+  
+  .home-page .main-btn {
+    gap: 30px;
+    padding: 12px 20px;
+    top: 508px;
+    left: 839px;
+    background-color: #ffffff;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+  }
+  
+  .home-page .frame {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .img {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .home-page .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #e9983f;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-6 {
+    position: absolute;
+    top: 227px;
+    left: 894px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffffcf;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 2.66px;
+    line-height: normal;
+  }
+  
+  .home-page .header {
+    position: absolute;
+    width: 1920px;
+    height: 107px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 13px #00000012;
+  }
+  
+  .home-page .logo {
+    position: absolute;
+    width: 230px;
+    height: 73px;
+    top: 17px;
+    left: 390px;
+    object-fit: cover;
+  }
+  
+  .home-page .nav-bar {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 45px;
+    position: absolute;
+    top: 43px;
+    left: 715px;
+  }
+  
+  .home-page .nav-bar-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .frame-2 {
+    display: flex;
+    height: 22px;
+    align-items: flex-start;
+    gap: 3px;
+    padding: 0px 4px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .home-page .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .ci-chevron-down {
+    position: relative;
+    width: 22px;
+    height: 22px;
+  }
+  
+  .home-page .questions {
+    position: absolute;
+    width: 307px;
+    height: 107px;
+    top: 0;
+    left: 1223px;
+    background-color: #e9983f;
+  }
+  
+  .home-page .vector-wrapper {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 28px;
+    left: 15px;
+    background-color: #ffffff4c;
+    border-radius: 25px;
+  }
+  
+  .home-page .vector {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .home-page .group-2 {
+    position: absolute;
+    width: 220px;
+    height: 55px;
+    top: 26px;
+    left: 76px;
+  }
+  
+  .home-page .text-wrapper-8 {
+    position: absolute;
+    top: 0;
+    left: 11px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-9 {
+    position: absolute;
+    top: 26px;
+    left: 0;
+    font-size: 24px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .about {
+    position: absolute;
+    width: 1135px;
+    height: 517px;
+    top: 800px;
+    left: 395px;
+  }
+  
+  .home-page .group-3 {
+    position: absolute;
+    width: 561px;
+    height: 395px;
+    top: 0;
+    left: 580px;
+  }
+  
+  .home-page .about-2 {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1807075e;
+    font-size: 14px;
+    letter-spacing: 2.66px;
+    line-height: normal;
+  }
+  
+  .home-page .authorized-pandit {
+    position: absolute;
+    width: 488px;
+    top: 33px;
+    left: 20px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 400;
+    color: var(--text-color);
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .guruji-has-an {
+    position: absolute;
+    width: 555px;
+    top: 175px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .home-page .main-btn-2 {
+    gap: 16px;
+    padding: 12px 18px;
+    top: 347px;
+    left: 0;
+    background-color: #e9983f;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+  }
+  
+  .home-page .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    font-size: 16px;
+    text-align: center;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .rectangle {
+    height: 108px;
+    top: 40px;
+    left: 0;
+    position: absolute;
+    width: 4px;
+    background-color: #e9983f;
+  }
+  
+  .home-page .mask-group {
+    position: absolute;
+    width: 498px;
+    height: 542px;
+    top: -4px;
+    left: -20px;
+  }
+  
+  .home-page .kaal-sarp-puja {
+    position: absolute;
+    width: 1920px;
+    height: 719px;
+    top: 1419px;
+    left: 0;
+  }
+  
+  .home-page .overlap-2 {
+    position: relative;
+    height: 719px;
+  }
+  
+  .home-page .content-wrapper {
+    position: absolute;
+    width: 1920px;
+    height: 719px;
+    top: 0;
+    left: 0;
+    background-color: #f2ebe387;
+  }
+  
+  .home-page .content {
+    position: relative;
+    width: 617px;
+    height: 408px;
+    top: 155px;
+    left: 390px;
+  }
+  
+  .home-page .trimbakeshwar-kaal {
+    position: absolute;
+    width: 488px;
+    top: 33px;
+    left: 0;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 400;
+    color: var(--text-color);
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .kalsarp-pooja {
+    position: absolute;
+    width: 555px;
+    top: 129px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .home-page .text-wrapper-11 {
+    position: absolute;
+    width: 555px;
+    top: 241px;
+    left: 52px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .home-page .text-wrapper-12 {
+    position: absolute;
+    width: 555px;
+    top: 291px;
+    left: 52px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22px;
+  }
+  
+  .home-page .icon {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 235px;
+    left: 0;
+    background-color: #e9983f;
+  }
+  
+  .home-page .img-2 {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 4px;
+    left: 4px;
+  }
+  
+  .home-page .rupee-currency-icon-wrapper {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 285px;
+    left: 0;
+    background-color: #e9983f;
+  }
+  
+  .home-page .main-btn-3 {
+    gap: 16px;
+    padding: 12px 18px;
+    top: 360px;
+    left: 0;
+    background-color: #e9983f;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+  }
+  
+  .home-page .element {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .mask-group-2 {
+    position: absolute;
+    width: 479px;
+    height: 513px;
+    top: 103px;
+    left: 1051px;
+    background-image: url(./image/image\ 5.png);
+    background-size: 100% 100%;
+  }
+  
+  .home-page .text-wrapper-13 {
+    position: absolute;
+    top: 2232px;
+    left: 841px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1807075e;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 2.66px;
+    line-height: normal;
+  }
+  
+  .home-page .other-pujas {
+    position: absolute;
+    width: 488px;
+    top: 2265px;
+    left: 716px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 400;
+    color: var(--text-color);
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .pitra-dosh {
+    position: absolute;
+    width: 360px;
+    height: 415px;
+    top: 2404px;
+    left: 390px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 4px 31px #00000014;
+  }
+  
+  .home-page .mask-group-3 {
+    position: absolute;
+    width: 360px;
+    height: 230px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .pitra-dosh-nivaran {
+    position: absolute;
+    width: 249px;
+    height: 22px;
+    top: 255px;
+    left: 56px;
+  }
+  
+  .home-page .text-wrapper-14 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .home-page .pitra-dosh-nivaran-wrapper {
+    position: absolute;
+    width: 249px;
+    height: 22px;
+    top: 293px;
+    left: 56px;
+  }
+  
+  .home-page .pitra-dosh-nivaran-2 {
+    position: absolute;
+    top: -1px;
+    left: 47px;
+    font-family: "Hind-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .home-page .button {
+    all: unset;
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    gap: 16px;
+    padding: 12px 18px;
+    position: absolute;
+    top: 340px;
+    left: 98px;
+    background-color: #e9983f;
+  }
+  
+  .home-page .narayan-nagbali-puja {
+    position: absolute;
+    width: 360px;
+    height: 415px;
+    top: 2404px;
+    left: 780px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 4px 31px #00000014;
+  }
+  
+  .home-page .pitra-dosh-nivaran-3 {
+    position: absolute;
+    top: -1px;
+    left: 11px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .home-page .maha-mrityunjay {
+    position: absolute;
+    width: 360px;
+    height: 415px;
+    top: 2404px;
+    left: 1170px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 4px 31px #00000014;
+  }
+  
+  .home-page .pitra-dosh-nivaran-4 {
+    position: absolute;
+    top: -1px;
+    left: 9px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .home-page .pitra-dosh-nivaran-5 {
+    position: absolute;
+    top: -1px;
+    left: 63px;
+    font-family: "Hind-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .home-page .action-bar {
+    position: absolute;
+    width: 1924px;
+    height: 305px;
+    top: 2919px;
+    left: 0;
+  }
+  
+  .home-page .overlap-3 {
+    position: relative;
+    width: 1920px;
+    height: 305px;
+    background-image: url(./image/image\ 1.png);
+    background-size: 100% 100%;
+  }
+  
+  .home-page .don-t-know-where-to {
+    position: absolute;
+    top: 56px;
+    left: 806px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffffcf;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 2.66px;
+    line-height: normal;
+  }
+  
+  .home-page .overlap-group-2 {
+    position: absolute;
+    width: 488px;
+    height: 160px;
+    top: 89px;
+    left: 716px;
+  }
+  
+  .home-page .book-your-kaal-sarp {
+    position: absolute;
+    width: 488px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-15 {
+    font-weight: 700;
+  }
+  
+  .home-page .text-wrapper-16 {
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+  }
+  
+  .home-page .main-btn-4 {
+    gap: 30px;
+    padding: 12px 20px;
+    top: 112px;
+    left: 154px;
+    background-color: #ffffff;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+  }
+  
+  .home-page .element-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #e9983f;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .overlap-4 {
+    position: absolute;
+    width: 1920px;
+    height: 657px;
+    top: 3224px;
+    left: 0;
+    background-color: #f2ebe387;
+  }
+  
+  .home-page .address {
+    position: absolute;
+    width: 555px;
+    top: 240px;
+    left: 390px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--text-color);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  
+  .home-page .contact-2 {
+    position: absolute;
+    top: 99px;
+    left: 394px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #1807075e;
+    font-size: 14px;
+    text-align: right;
+    letter-spacing: 2.66px;
+    line-height: normal;
+  }
+  
+  .home-page .connect-with-acharya {
+    position: absolute;
+    width: 488px;
+    top: 132px;
+    left: 411px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 400;
+    color: var(--text-color);
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .rectangle-2 {
+    height: 71px;
+    top: 140px;
+    left: 390px;
+    position: absolute;
+    width: 4px;
+    background-color: #e9983f;
+  }
+  
+  .home-page .inputs {
+    display: flex;
+    flex-direction: column;
+    width: 555px;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+    top: 100px;
+    left: 976px;
+  }
+  
+  .home-page .input-main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .frame-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 14px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #1807071c;
+  }
+  
+  .home-page .input-text {
+    position: relative;
+    flex: 1;
+    margin-top: -1px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #6a6a6a;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+  
+  .home-page .input-main-wrapper {
+    width: 555px;
+    top: 170px;
+    left: 976px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+  }
+  
+  .home-page .div-wrapper {
+    width: 555px;
+    top: 240px;
+    left: 976px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+  }
+  
+  .home-page .frame-4 {
+    align-items: center;
+    flex: 0 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    padding: 14px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+  }
+  
+  .home-page .input-text-2 {
+    position: relative;
+    flex: 1;
+    margin-top: -1px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #6a6a6a;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .vector-2 {
+    position: relative;
+    width: 9.8px;
+    height: 6.04px;
+    margin-right: -0.9px;
+  }
+  
+  .home-page .inputs-2 {
+    width: 262px;
+    top: 310px;
+    left: 976px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+  }
+  
+  .home-page .inputs-3 {
+    width: 262px;
+    top: 310px;
+    left: 1268px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+  }
+  
+  .home-page .inputs-4 {
+    width: 555px;
+    top: 380px;
+    left: 976px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+  }
+  
+  .home-page .input-main-2 {
+    display: flex;
+    flex-direction: column;
+    height: 104px;
+    align-items: flex-start;
+    gap: 5px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .home-page .frame-5 {
+    align-items: flex-start;
+    flex: 1;
+    flex-grow: 1;
+    border: 1px solid;
+    border-color: #1807071c;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    padding: 14px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+  }
+  
+  .home-page .main-btn-5 {
+    all: unset;
+    box-sizing: border-box;
+    gap: 16px;
+    padding: 12px 18px;
+    top: 509px;
+    left: 976px;
+    background-color: #e9983f;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+  }
+  
